@@ -176,15 +176,10 @@
 </table>
 
 
-### My skills 😛
-
-![](https://github-readme-stats.vercel.app/api?username=BlestDUKULY&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=morrisdukuly&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=morrisdukuly&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 
-Last update on Thu Jan 12 2023
+Last update on Thu Jul 1 2023
 
 <!--
 **morrisdukuly/morrisdukuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
