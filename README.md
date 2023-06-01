@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/blest-dukuly-54824b20a/)
 [![Gmail](https://img.shields.io/badge/Gmail-red.svg?logo=gmail&logoColor=white)](mailto:morrisdukuly15@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23239120.svg?logo=whatsapp&logoColor=white)](https://wa.me/qr/+22897130480 )
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23239120.svg?logo=whatsapp&logoColor=white)](https://wa.me/+22897130480 )
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=telegram&logoColor=white)](https://t.me/Blest_DUKULY)
 
 
@@ -178,9 +178,9 @@
 
 ### My skills 😛
 
-![](https://github-readme-stats.vercel.app/api?username=Elspinoza&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Elspinoza&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elspinoza&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=morrisdukuly&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=morrisdukuly&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=morrisdukuly&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 
