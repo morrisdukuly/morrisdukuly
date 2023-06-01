@@ -178,7 +178,7 @@
 
 ### My skills 😛
 
-![](https://github-readme-stats.vercel.app/api?username=morrisdukuly&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Blest DUKULY&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=morrisdukuly&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=morrisdukuly&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
