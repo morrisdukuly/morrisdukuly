@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 ### I am Morris DUKULY, You can call me Blest DUKULY. I am a Full stack developer 
 
